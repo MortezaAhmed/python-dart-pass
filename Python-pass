@@ -1,0 +1,18 @@
+def num():
+ x=input("enter x value: ")
+ list=[]
+ aa=int(x)
+ if aa<11 and xx>0:
+  for i in range(int(x)):
+      n=input()
+      list.append(int(n))
+
+  for i in list:
+     if (i%2==0):
+       print(str(i)+" is even")
+     else:
+       print(str(i)+" is odd")
+      
+ else:
+     print("The number is large, enter less than 10")
+num()
