@@ -1,3 +1,5 @@
+//Q3
+
 def num():
  x=input("enter x value: ")
  list=[]
